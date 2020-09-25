@@ -17,11 +17,11 @@ Near-instantaneous communication across vast distances and the infinite reproduc
 
 It is high time we communise the internet and take back its means of production, communication, and the entire digital infrastructure which increasingly determines all aspects of our social and material life.
 
-I am building a 'socialist network' as an experiment in designing new socialist technologies. [Please help](http://komrade.app).
+I am building a ['socialist network' called Komrade](http://komrade.app) as an experiment in designing new socialist technologies.
 
-These are my thoughts and reflections.
+The following are my thoughts and reflections on technology, labor, and culture.
 
-## Thoughts and reflections
+## Fragments
 
 ### Laying down the *Grundrisse* (25 Sep 2020)
 
