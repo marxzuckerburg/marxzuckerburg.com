@@ -1,2 +1,6 @@
-# marxzuckerburg.com
-website
+# Marx Zuckerburg
+
+![Photo of the author](assets/mz.jpg)
+
+
+
