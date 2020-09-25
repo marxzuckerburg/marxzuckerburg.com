@@ -5,9 +5,9 @@
 ## Contact
 
 * email: [mz@marxzuckerburg.com](mailto:mz@marxzuckerburg.com)
-* matrix: [@marxzuckerberg:matrix.org](https://matrix.to/#/@marxzuckerberg:matrix.org)
+* matrix: @[marxzuckerberg:matrix.org](https://matrix.to/#/@marxzuckerberg:matrix.org)
 * ssb: @vQStP7Sx6dy423dhrJdTc8sW7lc/ItO3UpAqCWp3Iqc=.ed25519
-* twitter: [@marxzuckerburg](https://twitter.com/marxzuckerburg)
+* twitter: @[marxzuckerburg](https://twitter.com/marxzuckerburg)
   
 
 ## Preamble
