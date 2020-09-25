@@ -1,6 +1,15 @@
 # Marx Zuckerburg
 
-![Photo of the author](assets/mz.jpg)
+![](assets/mz.jpg)
 
+-----
+
+## Introduction
+
+Hello world.
+
+## Thoughts and reflections
+
+### Laying down the *Grundrisse* (25 Sep 2020)
 
 
