@@ -1,6 +1,6 @@
 # Marx Zuckerburg
 
-![](assets/mz.jpg)
+![](assets/mz250.jpg)
 
 * email: [mz@marxzuckerburg.com](mailto:mz@marxzuckerburg.com)
 * matrix: @[marxzuckerberg:matrix.org](https://matrix.to/#/@marxzuckerberg:matrix.org)
