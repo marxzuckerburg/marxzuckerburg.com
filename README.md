@@ -5,7 +5,7 @@
 * email: [mz@marxzuckerburg.com](mailto:mz@marxzuckerburg.com)
 * matrix: @[marxzuckerberg:matrix.org](https://matrix.to/#/@marxzuckerberg:matrix.org)
 * twitter: @[marxzuckerburg](https://twitter.com/marxzuckerburg)
-* project: [komrade.app](https://komrade.app)
+* project: [comrad.app](https://comrad.app)
   
 
 ## Preamble
