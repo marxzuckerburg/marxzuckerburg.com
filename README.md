@@ -22,10 +22,3 @@ Near-instantaneous communication across vast distances and the infinite reproduc
 
 It is high time we communise the internet.
 
-The following are my thoughts and reflections.
-
-## Fragments
-
-### Laying down the *Grundrisse* (25 Sep 2020)
-
-...
